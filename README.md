@@ -1,7 +1,7 @@
-# sainsbury_test
+
 This is the console application which reads from Http Url and refines the needed data .
-    
-src 
+ 
+#src 
     main 
         java 
             com
@@ -15,3 +15,11 @@ src
           java
               com
                   sainsbury
+
+#Maven dependencies
+
+json   - For Formatting
+mockito ,junit,hamcrest -For testing
+jsoup -Reading data /refining data from http url
+
+#Running App
