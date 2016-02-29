@@ -1,5 +1,6 @@
 # sainsbury_test
 This is the console application which reads from Http Url and refines the needed data .
+    
 src 
     main 
         java 
@@ -14,4 +15,3 @@ src
           java
               com
                   sainsbury
-                          
